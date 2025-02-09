@@ -11,3 +11,4 @@ Commands:
 
 
 The character command uses data from MyAnimeList!
+
